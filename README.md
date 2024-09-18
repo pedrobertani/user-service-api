@@ -59,7 +59,7 @@ Este projeto foi desenvolvido com base no curso "Construindo APIs Robustas com .
 - [Construindo APIs Robustas com .NET + Azure!](https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&t=21s&pp=iAQB)
   
 ## Swagger
-![image](https://github.com/user-attachments/assets/892b1c72-134a-4846-8546-f9924b1e0758)
+![image](https://github.com/user-attachments/assets/3fb8eb81-cc38-4d02-9e63-559806812605)
 
 ## Testes
-![image](https://github.com/user-attachments/assets/b6b77c0a-d9c0-4b41-8f9e-5bce327674d4)
+![image](https://github.com/user-attachments/assets/e77fbfa3-0fda-4f29-93d8-a3667f380150)
